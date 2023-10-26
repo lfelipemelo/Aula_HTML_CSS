@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(101, 107, 225);
+    color: rgb(0, 0, 0);
+    
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container img{
+    border: 2px solid #000;
+    border-radius: 50px;  
+    
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    text-decoration: underline;
+}
